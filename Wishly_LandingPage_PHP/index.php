@@ -1,6 +1,6 @@
 
 <?php
-$pageTitle = 'Wishly – Gifts & Gift Boxes';
+$pageTitle = 'DONO – Gifts & Gift Boxes';
 $theme = 'dark';
 $year = date('Y');
 ?>
